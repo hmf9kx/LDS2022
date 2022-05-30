@@ -1,1 +1,11 @@
-
+employee_id,first_name,last_name,age,job_title,team,email,phone_number
+1,Adam,Anderson,34,Sales Manager,A,adama@gmail.com,4341728463
+2,Barbara,Blake,75,Sales Manager,B,barbarab@gmail.com,4342617564
+3,Cody,Covington,24,Sales Representative,A,codyc@gmail.com,4342672819
+4,Dave,Douglass,54,Sales Representative,B,daved@gmail.com,4341675830
+5,Evan,Earhart,43,Sales Representative,A,evane@gmail.com,4341529805
+6,Frank,Falconer,23,Sales Representative,B,frankf@gmail.com,4341678923
+7,Grace,Gaetz,27,Sales Representative,A,graceg@gmail.com,4347869041
+8,Hailey,Harrington,64,Sales Representative,B,haileyh@gmail.com,4345618953
+9,Igor,Irvin,43,Sales Representative,A,igori@gmail.com,4347759109
+10,James,Johnson,40,Sales Representative,B,jamesj@gmail.com,4347859016
